@@ -1,3 +1,5 @@
+<b>NOTE: THIS REPO HAS BEEN DEPRECATED</b>
+
 =ActiveScaffold Paperclip Bridge
 
 The bridge automatically creates file upload scaffolding ui for any model containing Paperclip attachments.
